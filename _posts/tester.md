@@ -6,7 +6,6 @@ categories: [Post]
 tags: [bic, wicys]
 description: "Testing"
 ---
-
 <p align="center">
   <img src="assets/blacks in cybersecurity.jpg" alt="Website is fun!" width="700">
 </p>
@@ -21,4 +20,4 @@ Welcome to my first website.
   You didn't ignore me !
 </details>
 
-## Sources
+
