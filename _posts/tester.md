@@ -8,7 +8,7 @@ description:"Testing"
 ---
 
 <p align="center">
-  <img src="assets/Website building.jpg" alt="Website is fun!" width="700">
+  <img src="assets/blacks in cybersecurity.jpg" alt="Website is fun!" width="700">
 </p>
 
 ## Summary
