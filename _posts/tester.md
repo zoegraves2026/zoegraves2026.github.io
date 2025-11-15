@@ -7,8 +7,9 @@ tags:[dfa, wicys]
 descripstion:""
 ---
 <p align="center>
-  <img src="assets/Website building.jpg" alt="Website building so fun!" width="700">
+  <img src="assets/Website building.jpg" alt="Website is fun!" width="700">
 </p>
 
 ##Summary
 This post is a test run as I learned how to navigate Github.
+## Content
