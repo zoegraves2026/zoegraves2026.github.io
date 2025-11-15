@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Welcome User"
+layout:post
+title:"Welcome to BIC!"
 date:2025-11-14 18:50:00 +0000
 categories:[Post]
-tags:[dfa, wicys]
-description: "Testing"
+tags:[bic, wicys]
+description:"Testing"
 ---
 
 <p align="center">
@@ -12,7 +12,7 @@ description: "Testing"
 </p>
 
 ## Summary
-This post is a test run as I learned how to navigate Github.
+This post informs incoming students at the University at Albany about Blacks in Cybersecurity. Our chapter was estalblised in Fall 2024...
 
 ## Content
 Welcome to my first website.
