@@ -1,10 +1,10 @@
 ---
-layout:post
-title:"Welcome to BIC!"
-date:2025-11-14 18:50:00 +0000
-categories:[Post]
-tags:[bic, wicys]
-description:"Testing"
+layout: post
+title: "Welcome to BIC!"
+date: 2025-11-14 18:50:00 +0000
+categories: [Post]
+tags: [bic, wicys]
+description: "Testing"
 ---
 
 <p align="center">
