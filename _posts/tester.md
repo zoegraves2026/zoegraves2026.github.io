@@ -4,8 +4,7 @@ title: "Welcome User"
 date: 2025-11-14 18:50:00
 catergories: 
   - [Post]
-tags:
-  - [dfa, wicys]
+tags:[dfa, wicys]
 descripstion:"Testing"
 ---
 <p align="center>
