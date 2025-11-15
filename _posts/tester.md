@@ -2,9 +2,11 @@
 layout: post
 title: "Welcome User"
 date: 2025-11-14 18:50:00
-catergories: [Post]
-tags:[dfa, wicys]
-descripstion:""
+catergories: 
+  - [Post]
+tags:
+  - [dfa, wicys]
+descripstion:"Testing"
 ---
 <p align="center>
   <img src="assets/Website building.jpg" alt="Website is fun!" width="700">
