@@ -2,7 +2,7 @@
 layout: post
 title: "Welcome User"
 date: 2025-11-14 18:50:00 +0000
-categories: [post]
+categories: [Post]
 tags:[dfa, wicys]
 description: "Testing"
 ---
